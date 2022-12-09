@@ -4,6 +4,8 @@ import java.util.*;
 
 public class Solution {
     public String wordCount(String sentence) {
-        throw new RuntimeException("TODO! Needs implementation...");
+        HashMap<String,Integer> map = new HashMap<>();
+        
+
     }
 }
